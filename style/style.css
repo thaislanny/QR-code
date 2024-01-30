@@ -44,13 +44,14 @@ body {
 .apresentacao__titulo {
     font-family: 'Outfit', sans-serif;
     weight: 700;
+    font-size: 1.5rem;
     color: hsl(218, 44%, 22%);
 }
 
 .apresentacao__paragrafo {
     font-family: 'Outfit', sans-serif;
     weight: 400;
-    font-size: 15px;
+    font-size: 1.2rem;
     color: hsl(220, 15%, 55%);
 }
 
